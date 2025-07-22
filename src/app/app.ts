@@ -10,7 +10,7 @@ import { FormsModule } from '@angular/forms';
 export class App {
   data="Sanvi Rahman";
 
-  name="Sanvi Rahman";
+  name="Sheikh Forid Ahmed Shanto";
 
   onchange(){
     this.name="Shanta Islam Oboni";
